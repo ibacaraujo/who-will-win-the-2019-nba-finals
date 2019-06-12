@@ -1,4 +1,4 @@
-Who will win the 2019 NBA Finals?
+# Who will win the 2019 NBA Finals?
 
 Open the notebook, understand the data scraping, the process and the meaning per se. Explore the prediction strategy. Surprise yourself or not with the champion prediction. I just can say that strength in numbers make sense.
 
